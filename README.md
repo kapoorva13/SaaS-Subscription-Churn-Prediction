@@ -39,13 +39,17 @@ Customer churn is a major challenge for SaaS businesses. Retaining customers is 
 ---
 
 ## ⚙️ Project Structure
+
+```text
 SaaS-Subscription-Churn-Prediction/
-├── data/ # Dataset
-├── images/ # Plots & visualizations
-├── models/ # Trained model
-├── src/ # Source code
-│ ├── churn_model.py # Model training pipeline
-│ ├── app.py # Streamlit dashboard
-│ └── predict_example.py
-├── requirements.txt # Dependencies
+├── data/                 # Dataset
+├── images/               # Plots & visualizations
+├── models/               # Trained model
+├── src/                  # Source code
+│   ├── churn_model.py    # Model training pipeline
+│   ├── app.py            # Streamlit dashboard
+│   └── predict_example.py
+├── requirements.txt      # Dependencies
 └── README.md
+```
+
